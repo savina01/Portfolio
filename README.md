@@ -1,3 +1,3 @@
 # Portfolio
-Demo portfolio for to train HTML
+Demo portfolio to train HTML
 
